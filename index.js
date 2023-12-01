@@ -8,6 +8,13 @@ function add(a,b,c) {
 }
 
 function substract(a,b) {
-    if(a>b) return a-b;
-    return b-a;
+    return a-b;
+}
+
+function multiply(a,b) {
+    return a*b;
+}
+
+function divide(a,b) { 
+    return a/b;
 }
