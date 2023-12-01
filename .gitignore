@@ -1,0 +1,7 @@
+img/*.jpg
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
